@@ -14,8 +14,6 @@ from string import punctuation
 import re
 import unicodedata
 
-print('Gracias por usar nuestro módulo MF')
-
 # Stopword de nltk
 spanish_stopwords = nltk.corpus.stopwords.words('spanish')
 
